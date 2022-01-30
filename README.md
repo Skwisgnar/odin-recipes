@@ -1,1 +1,2 @@
 # odin-recipes
+I will be creating my recipe website using all the HTML skills I have learned such as headers, paragraphs, bold/italics, importing images, lists, and relative links to my other HTML files.
